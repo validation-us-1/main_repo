@@ -1,3 +1,7 @@
 target
 .allure
 .idea
+.project
+allure*
+.settings
+.classpath

@@ -1,15 +1,17 @@
 # AODocs Selenium technical test
 
-This project is about assessing QA automation abilities.
+This project is an example of Web Automation with Page Object Model.
 
-## Getting Started
-
-### Prerequisites
-* Java JDK: 10 or higher
-* Maven: 3.3.9 or higher
+### Tools
+* Java JDK
+* Selenium
+* Maven
+* JUnit
+* Apache POI
+* Git
 
 ## Test Objectives
-The marketing team ask you to write an automation test to validate how prospect access to our website, and the form to request a demo of the product.
+The marketing team asks to write an automation test to validate how prospect access to a website, and the form to request a demo of the product.
  
 The test steps are:
  1. Search AODocs in Google
@@ -23,5 +25,3 @@ The test steps are:
  5. Check the error messages
 
 ## Notes
-In this project you can find a utility class "WebDriverUtility" to help you to start a browser locally.
-To write the test, you need to use Junit 5 already configured in pom.xml
